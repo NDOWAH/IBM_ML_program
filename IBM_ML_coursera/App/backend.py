@@ -1,4 +1,5 @@
 import pandas as pd
+import numpy as np
 
 models = ("Course Similarity",
           "User Profile",
